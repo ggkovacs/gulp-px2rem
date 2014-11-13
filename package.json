@@ -28,5 +28,8 @@
     "gulp-util": "^3.0.1",
     "node-px2rem": "^1.0.2",
     "through2": "^0.6.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10"
   }
 }

@@ -30,13 +30,13 @@ var px2remOptions = {
     replace: false
 };
 
-var postcssOptions = {
+var postCssOptions = {
     map: true  
 };
 
 gulp.task('css', function() {
     gulp.src('css/**/*.css')
-        .pipe(px2rem(px2remOptions, postcssOptions))
+        .pipe(px2rem(px2remOptions, postCssOptions))
         .pipe(gulp.dest('css'));
 });
 ```
