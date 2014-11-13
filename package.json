@@ -1,6 +1,6 @@
 {
   "name": "gulp-px2rem",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A gulp plugin for node-px2rem",
   "main": "index.js",
   "scripts": {
