@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/ggkovacs/gulp-px2rem/issues"
   },
-  "homepage": "https://github.com/ggkovacs/gulp-px2rem"
+  "homepage": "https://github.com/ggkovacs/gulp-px2rem",
+  "dependencies": {
+    "gulp-util": "^3.0.1",
+    "node-px2rem": "^1.0.2",
+    "through2": "^0.6.3"
+  }
 }
