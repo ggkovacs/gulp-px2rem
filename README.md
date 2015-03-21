@@ -1,5 +1,5 @@
 # [gulp](https://github.com/gulpjs/gulp)-px2rem
-Version: **0.0.1**
+Version: **0.0.2**
 
 This is a Gulp plugin for [node-px2rem](https://github.com/ggkovacs/node-px2rem).
 
