@@ -1,4 +1,4 @@
-# [gulp](https://github.com/gulpjs/gulp)-px2rem
+# [gulp](https://github.com/gulpjs/gulp)-px2rem [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
 Version: **0.0.2**
 
 This is a Gulp plugin for [node-px2rem](https://github.com/ggkovacs/node-px2rem).
@@ -42,4 +42,9 @@ gulp.task('css', function() {
 ```
 
 # License
-MIT (c) 2014 Gergely Kovács (gg.kovacs@gmail.com)
+MIT © 2015 Gergely Kovács (gg.kovacs@gmail.com)
+
+[npm-image]: https://badge.fury.io/js/gulp-px2rem.svg
+[npm-url]: https://npmjs.org/package/gulp-px2rem
+[daviddm-image]: https://david-dm.org/ggkovacs/gulp-px2rem.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/ggkovacs/gulp-px2rem
