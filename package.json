@@ -16,7 +16,8 @@
     "postprocessor",
     "rem",
     "gulp",
-    "gulpplugin"
+    "gulpplugin",
+    "px"
   ],
   "author": "Gergely Kovács",
   "license": "MIT",
