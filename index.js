@@ -15,7 +15,7 @@ var px2rem = require('node-px2rem');
 var PLUGIN_NAME = 'gulp-px2rem';
 
 /**
- * Gulp px 2 rem
+ * Gulp px2rem
  * @param  {Object} options
  * @param  {Object} postCssOptions
  * @return {Object}
