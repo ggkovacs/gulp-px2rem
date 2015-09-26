@@ -39,6 +39,7 @@ function gulpPx2Rem(options, postCssOptions) {
         }
 
         this.push(file);
+
         cb();
     });
 }
