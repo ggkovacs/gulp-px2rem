@@ -26,11 +26,11 @@
   },
   "homepage": "https://github.com/ggkovacs/gulp-px2rem",
   "dependencies": {
-    "gulp-util": "^3.0.6",
-    "node-px2rem": "^1.0.3",
-    "through2": "^2.0.0"
+    "gulp-util": "3.0.6",
+    "node-px2rem": "1.0.4",
+    "through2": "2.0.0"
   },
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "3.9.0"
   }
 }
