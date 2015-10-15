@@ -1,6 +1,6 @@
 {
   "name": "gulp-px2rem",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A gulp plugin for node-px2rem",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,7 @@
   "homepage": "https://github.com/ggkovacs/gulp-px2rem",
   "dependencies": {
     "gulp-util": "3.0.6",
-    "node-px2rem": "1.0.5",
+    "node-px2rem": "1.0.6",
     "through2": "2.0.0"
   },
   "devDependencies": {
