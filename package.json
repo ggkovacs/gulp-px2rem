@@ -27,7 +27,7 @@
   "homepage": "https://github.com/ggkovacs/gulp-px2rem",
   "dependencies": {
     "gulp-util": "3.0.7",
-    "node-px2rem": "1.0.7",
+    "node-px2rem": "1.0.8",
     "through2": "2.0.0"
   },
   "devDependencies": {
