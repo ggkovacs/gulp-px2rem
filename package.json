@@ -1,6 +1,6 @@
 {
   "name": "gulp-px2rem",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A gulp plugin for node-px2rem",
   "main": "index.js",
   "scripts": {
@@ -27,11 +27,11 @@
   "homepage": "https://github.com/ggkovacs/gulp-px2rem",
   "dependencies": {
     "gulp-util": "^3.0.7",
-    "node-px2rem": "^1.1.1",
+    "node-px2rem": "^1.1.2",
     "through2": "^2.0.1"
   },
   "devDependencies": {
-    "eslint": "^2.4.0",
+    "eslint": "^2.6.0",
     "eslint-config-mito": "^2.0.2",
     "gulp": "^3.9.1",
     "pre-commit": "^1.1.2"
