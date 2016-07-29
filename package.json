@@ -31,7 +31,7 @@
     "through2": "^2.0.1"
   },
   "devDependencies": {
-    "eslint": "^3.1.1",
+    "eslint": "^3.2.0",
     "eslint-config-mito": "^5.0.0",
     "gulp": "^3.9.1",
     "pre-commit": "^1.1.3"
