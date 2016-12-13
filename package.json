@@ -34,7 +34,7 @@
     "eslint": "^3.12.1",
     "eslint-config-mito": "^6.0.0",
     "gulp": "^3.9.1",
-    "pre-commit": "^1.2.1"
+    "pre-commit": "^1.2.2"
   },
   "pre-commit": [
     "test"
