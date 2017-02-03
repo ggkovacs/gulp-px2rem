@@ -42,7 +42,7 @@ gulp.task('css', function() {
 ```
 
 # License
-MIT © 2016 Gergely Kovács (gg.kovacs@gmail.com)
+MIT © 2017 Gergely Kovács (gg.kovacs@gmail.com)
 
 [npm-image]: https://badge.fury.io/js/gulp-px2rem.svg
 [npm-url]: https://npmjs.org/package/gulp-px2rem
