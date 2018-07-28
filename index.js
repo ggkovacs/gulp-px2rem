@@ -1,7 +1,6 @@
 'use strict';
 
-var util = require('gulp-util');
-var PluginError = util.PluginError;
+var PluginError = require('plugin-error');
 var through = require('through2');
 var px2rem = require('node-px2rem');
 
