@@ -19,7 +19,7 @@ function gulpPx2Rem(options, postCssOptions) {
     }
 
     try {
-      file.contents = new Buffer(px2rem.process(file.contents.toString(), options, postCssOptions));
+      file.contents = Buffer.from(px2rem.process(file.contents.toString(), options, postCssOptions));
     } catch (err) {
       this.emit('error', new PluginError(PLUGIN_NAME, err));
     }
