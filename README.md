@@ -1,5 +1,5 @@
 # [gulp](https://github.com/gulpjs/gulp)-px2rem [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
-Version: **1.1.0**
+Version: **1.1.1**
 
 This is a Gulp plugin for [node-px2rem](https://github.com/ggkovacs/node-px2rem).
 
@@ -31,7 +31,7 @@ const px2remOptions = {
 };
 
 const postCssOptions = {
-  map: true  
+  map: true
 };
 
 gulp.task('css', () => {
