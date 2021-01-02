@@ -1,5 +1,5 @@
 # [gulp](https://github.com/gulpjs/gulp)-px2rem [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
-Version: **1.1.3**
+Version: **1.1.4**
 
 This is a Gulp plugin for [node-px2rem](https://github.com/ggkovacs/node-px2rem).
 
@@ -42,7 +42,7 @@ gulp.task('css', () => {
 ```
 
 # License
-MIT © 2019 Gergely Kovács (gg.kovacs@gmail.com)
+MIT © 2021 Gergely Kovács (gg.kovacs@gmail.com)
 
 [npm-image]: https://badge.fury.io/js/gulp-px2rem.svg
 [npm-url]: https://npmjs.org/package/gulp-px2rem
